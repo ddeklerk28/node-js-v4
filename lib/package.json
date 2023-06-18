@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "name": "lib",
+  "version": "1.0.0",
+  "main": "utils.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
